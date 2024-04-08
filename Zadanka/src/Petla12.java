@@ -1,0 +1,2 @@
+public class Petla12 {
+}
